@@ -1,5 +1,7 @@
 # My Website
 
-There's a change afoot here. More stuff added on example branch. 
+This is a really great website.
 
-Now editing on update-readme branch
+Now editing on update-readme branch.
+
+Updated locally.
